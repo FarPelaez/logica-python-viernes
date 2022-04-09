@@ -1,0 +1,6 @@
+{
+   "editor.autoIndent": "advanced",
+   "workbench.tree.indent": 4,
+   "html.format.indentHandlebars": true,
+   "html.format.indentInnerHtml": true
+}
